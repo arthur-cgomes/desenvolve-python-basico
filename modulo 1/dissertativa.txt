@@ -1,0 +1,6 @@
+1 - Leia e armazene o valor n que se deseja calcular a multiplicação; # entrado n
+2 - Subtraia 1 de n e armazene o resultado como o primeiro dígito; # dl = /7-7
+3 - Subtraia n de 10 e armazene o resultado como o segundo dígito; #d2= 70-n
+4 - Para compor o resultado final, multiplique o resultado do primeiro dígito por 10 e
+some com o resultado do segundo dígito, Armazene o resultado; # r = dlx 70 + d2
+5 - Imprima o resultado final na tela e finalize o programa; # saída r
