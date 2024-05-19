@@ -1,0 +1,10 @@
+Carro\n
+Moto\n
+Caminhão\n
+Bicicleta\n
+Avião\n
+Helicoptero\n
+Jato\n
+Lancha\n
+Barco\n
+Navio\n
